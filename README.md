@@ -36,9 +36,9 @@ The objective of this project is to analyze and visualize sales performance, cus
 - The leading sales channel contributes approximately 35–40% of total orders, while the second-best channel contributes around 20–25%, showing platform dependency.
 
 ## Tools Used
-•	Data Analysis: Excel
-•	Visualization: Excel
-•	Documentation: Markdown
+- Data Analysis: Excel
+- Visualization: Excel
+- Documentation: Markdown
 
 ## Conclusion
 The Vakratund Store Dashboard clearly shows that the business is performing well, with strong sales trends and a high percentage of successful deliveries. Female customers and the adult age group contribute the most, making them the key target audience.
@@ -48,10 +48,10 @@ Sales are mainly driven by a few top states and major online channels, which is 
 Overall, the dashboard makes it easy to understand business performance and highlights where to focus for future growth and better results.
 
 ## Author Details
-Name: Anil
-Education: BTech in Computer Science (AI&DS)
-Skills: Data Analysis, Excel, Power BI, Dashboard Creation.
-Project: Vakratund Store Sales Analysis Dashboard.
-Objective: To analyze sales data and generate insights for better business decisions.
+- Name: Anil
+- Education: BTech in Computer Science (AI&DS)
+- Skills: Data Analysis, Excel, Power BI, Dashboard Creation.
+- Project: Vakratund Store Sales Analysis Dashboard.
+- Objective: To analyze sales data and generate insights for better business decisions.
 -- Project: Vakratund Store Sales Analysis Dashboard.
 -- Objective: To analyze sales data and generate insights for better business decisions.
