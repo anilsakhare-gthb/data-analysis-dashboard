@@ -16,6 +16,18 @@ The objective of this project is to analyze and visualize sales performance, cus
 - What is the percentage difference between the top two sales channels.
 - Dashboard Interaction- <a href="https://github.com/anilsakhare-gthb/data-analysis-dashboard/blob/main/firstdashbd.jpg">View Dashboard</a>
 
+## 🛠️Process
+- Collect and understand the dataset to identify key business requirements.
+- Clean and prepare the data to ensure accuracy and consistency.
+- Create important KPIs and metrics for performance tracking.
+- Design and build interactive dashboard visuals for better understanding.
+- Analyze insights and trends to support data-driven business decisions.
+
+## 🖥️Dashboard
+
+![firstdashbd](https://github.com/anilsakhare-gthb/data-analysis-dashboard/blob/main/firstdashbd.jpg)
+
+
 
 
 
