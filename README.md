@@ -53,5 +53,3 @@ Overall, the dashboard makes it easy to understand business performance and high
 - Skills: Data Analysis, Excel, Power BI, Dashboard Creation.
 - Project: Vakratund Store Sales Analysis Dashboard.
 - Objective: To analyze sales data and generate insights for better business decisions.
--- Project: Vakratund Store Sales Analysis Dashboard.
--- Objective: To analyze sales data and generate insights for better business decisions.
