@@ -14,5 +14,8 @@ The objective of this project is to analyze and visualize sales performance, cus
 - Which age group has the highest order contribution, and how does it differ between men and women.
 - Which sales channel contributes the highest share of orders.
 - What is the percentage difference between the top two sales channels.
+- Dashboard Interaction- <a href="https://github.com/anilsakhare-gthb/data-analysis-dashboard/blob/main/firstdashbd.jpg">View Dashboard</a>
 
-## 🖥️Dashboard
+
+
+
