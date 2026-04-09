@@ -47,9 +47,10 @@ Sales are mainly driven by a few top states and major online channels, which is 
 
 Overall, the dashboard makes it easy to understand business performance and highlights where to focus for future growth and better results.
 
-## Author Details
+**Author Details**
 - Name: Anil
+- Email: technicala4518@gmail.com
 - Education: BTech in Computer Science (AI&DS)
 - Skills: Data Analysis, Excel, Power BI, Dashboard Creation.
 - Project: Vakratund Store Sales Analysis Dashboard.
-- Objective: To analyze sales data and generate insights for better business decisions.
+
